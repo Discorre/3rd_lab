@@ -1,0 +1,27 @@
+﻿  FileName.cpp
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(92,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(144,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(150,34): error C2572: miller_rabin: переопределение аргумента по умолчанию: параметр 1
+  C:\Users\egori\projectes\TrierdLab\FileName.cpp(11,6):
+   см. объявление "miller_rabin"
+  
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(150,6): error C2084: функция "bool miller_rabin(int,int)" уже имеет текст реализации
+  C:\Users\egori\projectes\TrierdLab\FileName.cpp(11,6):
+  см. предыдущее определение "miller_rabin"
+  
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(189,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(204,79): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(204,68): error C2568: &&: не удается разрешить перегрузку функции
+  C:\Users\egori\projectes\TrierdLab\FileName.cpp(204,68):
+  может быть "bool miller_rabin(int,int)"
+  
+C:\Users\egori\projectes\TrierdLab\FileName.cpp(249,17): warning C4551: в вызове функции отсутствует список аргументов
+  FileName2.cpp
+  FileName3.cpp
+  FileName4.cpp
+C:\Users\egori\projectes\TrierdLab\FileName4.cpp(48,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\FileName4.cpp(78,56): error C3861: lehmann_pocklington: идентификатор не найден
+C:\Users\egori\projectes\TrierdLab\FileName4.cpp(95,56): error C3861: gost_31_10_94: идентификатор не найден
+  TrierdLab.cpp
+  Создание кода...
